@@ -4,9 +4,9 @@ Climate change is a pressing issue around the globe that has differential impact
 
 For this analysis, I build an interactive Shiny application exploring CO2 emissions data compiled by Our World In Data. 
 
-Shiny App Link: [ https://nhidang.shinyapps.io/a4-climate-change-NhiDang1001/]
+**Shiny App Link:** [ https://nhidang.shinyapps.io/a4-climate-change-NhiDang1001/]
 
-Links to code:
+**Links to code:**
 
 `my_server.R` [link](my_server.R)
 
