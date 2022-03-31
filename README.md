@@ -12,11 +12,11 @@ For this analysis, I build an interactive Shiny application exploring CO2 emissi
 
 `my_ui.R` [link](my_ui.R)
 
-## Data
+### Data
 
 Data: [GitHub repository](https://github.com/owid/co2-data/) (specifically the [owid-co2-data.csv](https://github.com/owid/co2-data/) file)
 
-## Analysis structure
+### Analysis structure
 
 A multi-page interactive Shiny application that allows users to explore data about CO2 emissions, this includes:
 
@@ -24,9 +24,12 @@ A multi-page interactive Shiny application that allows users to explore data abo
 - An interactive visualization page (tab) where users can control a visualization using Shiny widgets
 - A page (tab) that briefly considers a Value Sensitive Design issue regarding my Shiny App
 
-## Introduction + Summary + Data
+### Introduction + Summary + Data
 
 - Brief introduction: [here](index.Rmd)
+
+
+# ABOUT ME
 
 ### Links to Other Projects
 1. [Seattle Pet Licensing](https://github.com/NhiDang1001/pet_licensing_seattle-Python-.git)
