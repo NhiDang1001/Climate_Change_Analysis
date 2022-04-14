@@ -8,11 +8,11 @@ For this analysis, I build an interactive Shiny application exploring CO2 emissi
 
 For deeper visualizations on the CO2 emissions around the world, I also build an interactive dashboard in Python with `Panel`.
 
- **Panel Visualization:** To serve the dashboard locally, use the command: [panel serve climate.ipynb]
+ **Panel Visualization:** To serve the dashboard locally, use the command: `[panel serve climate.ipynb]`
 
 **Links to code:**
 
-`Python panel` [Link](climate.ipynb)
+`Python panel` [link](climate.ipynb)
 
 `my_server.R` [link](my_server.R)
 
