@@ -4,15 +4,14 @@ Climate change is a pressing issue around the globe that has differential impact
 
 For this analysis, I build an interactive Shiny application exploring CO2 emissions data compiled by Our World In Data. 
 
-**Shiny App Link:** [ https://nhidang.shinyapps.io/a4-climate-change-NhiDang1001/]
+ **Shiny App Link:** [ https://nhidang.shinyapps.io/a4-climate-change-NhiDang1001/]
 
 For deeper visualizations on the CO2 emissions around the world, I also build an interactive dashboard in Python with `Panel`.
 
-**Panel Visualization:** To serve the dashboard locally, use the command:
-
-panel serve climate.ipynb
+ **Panel Visualization:** To serve the dashboard locally, use the command: [panel serve climate.ipynb]
 
 **Links to code:**
+
 `Python panel` [Link](climate.ipynb)
 
 `my_server.R` [link](my_server.R)
