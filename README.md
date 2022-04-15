@@ -10,7 +10,7 @@ For deeper visualizations on the CO2 emissions around the world, I also build an
 
  **Panel Visualization:** To serve the dashboard locally, use the command: `[panel serve climate.ipynb]`
  
- ![climate_panel](climate_panel.png)
+ ![climate_panel](panel_climatechange.png)
 
 **Links to code:**
 
